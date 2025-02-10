@@ -19,6 +19,7 @@ namespace NodeCanvas.Tasks.Actions {
                 if (Physics.Raycast(mouseRay, out RaycastHit hitInfo))
                 {
                     navAgent.SetDestination(hitInfo.point);
+
                 }
             }
 

@@ -12,10 +12,13 @@ namespace NodeCanvas.Tasks.Actions {
 
 		
 		protected override void OnExecute() {
+
 			if (Sleepzzz.value != null)
 			{
 				Sleepzzz.value.SetActive(true);
-			}
+                //yield return new WaitForSeconds(5);
+            }
+			Sleepzzz.value.SetActive(false); 
 			EndAction(true);
 		}
 

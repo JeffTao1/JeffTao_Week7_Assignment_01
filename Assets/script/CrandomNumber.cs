@@ -23,7 +23,7 @@ namespace NodeCanvas.Tasks.Conditions {
             if (theRandom.value == 2)
             {
 
-                return OnCheck();
+               
             }
             return true;
         }
