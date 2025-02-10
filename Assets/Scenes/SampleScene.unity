@@ -3840,7 +3840,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _serializedExposedParameters: []
-  _boundGraphSerialization: '{"type":"NodeCanvas.StateMachines.FSM","nodes":[{"_actionList":{"executionMode":1,"actions":[{"navAgent":1,"$type":"NodeCanvas.Tasks.Actions.Mousemovement"}]},"_repeatStateActions":true,"_color":{"r":1.0,"g":0.42,"b":0.32,"a":1.0},"_position":{"x":-181.9401,"y":277.0906},"$type":"NodeCanvas.StateMachines.ActionState","$id":"0"},{"_actionList":{"executionMode":1,"actions":[{"Sleepzzz":{"_value":2},"badboyhhh":{},"$type":"NodeCanvas.Tasks.Actions.ShowTheUI"}]},"_color":{"r":1.0,"g":0.42,"b":0.32,"a":1.0},"_position":{"x":146.3102,"y":402.3947},"$type":"NodeCanvas.StateMachines.ActionState","$id":"1"}],"connections":[{"_condition":{"theRandom":{},"themin":{"_value":1},"theMAX":{"_value":10},"_invert":true,"$type":"NodeCanvas.Tasks.Conditions.CrandomNumber"},"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"1"},"$type":"NodeCanvas.StateMachines.FSMConnection"}],"canvasGroups":[],"localBlackboard":{"_variables":{}}}'
+  _boundGraphSerialization: '{"type":"NodeCanvas.StateMachines.FSM","nodes":[{"_actionList":{"executionMode":1,"actions":[{"navAgent":1,"$type":"NodeCanvas.Tasks.Actions.Mousemovement"}]},"_repeatStateActions":true,"_color":{"r":1.0,"g":0.42,"b":0.32,"a":1.0},"_position":{"x":-181.9401,"y":277.0906},"$type":"NodeCanvas.StateMachines.ActionState","$id":"0"},{"_actionList":{"executionMode":1,"actions":[{"Sleepzzz":{"_value":2},"badboyhhh":{},"$type":"NodeCanvas.Tasks.Actions.ShowTheUI"}]},"_color":{"r":1.0,"g":0.42,"b":0.32,"a":1.0},"_position":{"x":146.3102,"y":402.3947},"$type":"NodeCanvas.StateMachines.ActionState","$id":"1"}],"connections":[{"_condition":{"thebestnumberintheworld":2,"theRandom":{},"themin":{"_value":1},"theMAX":{"_value":10},"_invert":true,"$type":"NodeCanvas.Tasks.Conditions.CrandomNumber"},"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"1"},"$type":"NodeCanvas.StateMachines.FSMConnection"}],"canvasGroups":[],"localBlackboard":{"_variables":{}}}'
   _boundGraphObjectReferences:
   - {fileID: 0}
   - {fileID: 1056125369}
@@ -3849,7 +3849,7 @@ MonoBehaviour:
     _version: 3.31
     _category: 
     _comments: 
-    _translation: {x: 433.8988, y: 193.92549}
+    _translation: {x: 739, y: 84}
     _zoomFactor: 1
   _firstActivation: 0
   _enableAction: 0
